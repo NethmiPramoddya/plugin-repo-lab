@@ -4,8 +4,14 @@
     "entry": "./plugins/sample-plugin/plugin.js"
   },
   {
+
     "name": "Test Plugin",  
     "entry": "./plugins/test-plugin/plugin.js" 
+  },
+  {
+    "name": "Nethmi Plugin",  
+    "entry": "./plugins/nethmi-plugin/plugin.js"  
+
   }
 
 ]
